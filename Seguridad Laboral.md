@@ -29,7 +29,7 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQE4_kPpzJgZeg/article-cover_image-shrink_600_2000/0/1673735373727?e=2147483647&amp;v=beta&amp;t=iOV-t-_witSrjay74mjORmkcnAohA8j-2qvJjwbsZ_Y" alt="enter image description here"></p>
 </li>
 </ul>
-<h1 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h1>
+<h2 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h2>
 <ul>
 <li>Caídas al mismo nivel: Los suelos deben ser estables, que no resbalen ni tengan ningún tipo de irregularidad. Tener todo despejado y libre de cables es fundamental.<br>
 <img src="https://serior-10c75.kxcdn.com/wp-content/uploads/2018/12/AD-2250.png" alt="enter image description here">&gt;</li>
