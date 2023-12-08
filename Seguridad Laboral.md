@@ -15,7 +15,7 @@
 –7º Carga mental<br>
 –8º ¿Cómo se Controla?</h2>
 <blockquote></blockquote>
-<h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
+<h2 id="º-riesgos-laborales-y-prevención">1º Riesgos Laborales y Prevención</h2>
 <p>¿Qué son los riesgos laborales?¿Como se previenen?</p>
 <ul>
 <li>
