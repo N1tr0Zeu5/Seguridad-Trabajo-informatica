@@ -14,9 +14,9 @@
 –6º Fatiga visual</h2>
 <blockquote></blockquote>
 <h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
-<p>¿Qué son los riesgos laborales?¿Como se previenen?</p>
+<p><a href="https://castillalamancha.ccoo.es/a7c5e0faba682c8a270ad2170798d103000052.pdf">¿Qué son los riesgos laborales?¿Como se previenen?</a></p>
 <ul>
-<li>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo<br>
+<li>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo.<br>
 <img src="https://2.bp.blogspot.com/-1jfwa4f2ysY/VXGNW0t5RpI/AAAAAAAAABM/VqlW1z4Zwsg/s1600/Obligacion.png" alt=""></li>
 </ul>
 <h1 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h1>
