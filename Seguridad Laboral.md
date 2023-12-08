@@ -5,15 +5,15 @@
 
 <h1 id="seguridad-laboral">Seguridad Laboral</h1>
 <p><img src="https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg" alt="enter image description here"></p>
-<h1 id="indice">Indice:</h1>
-<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual--7º-carga-mental--8º-como-se-controla">–1º Riesgos laborales y Prevencion<br>
+<h1 id="índice">Índice:</h1>
+<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual--7º-carga-mental--8º-¿cómo-se-controla">–1º Riesgos laborales y Prevencion<br>
 –2º Caídas al mismo nivel<br>
 –3º Golpes contra objetos inmóviles<br>
 –4º Problemas musculares<br>
 –5º Contacto eléctrico<br>
 –6º Fatiga visual<br>
 –7º Carga mental<br>
-–8º Como se Controla?</h2>
+–8º ¿Cómo se Controla?</h2>
 <blockquote></blockquote>
 <h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
 <p><a href="https://castillalamancha.ccoo.es/a7c5e0faba682c8a270ad2170798d103000052.pdf">¿Qué son los riesgos laborales?¿Como se previenen?</a></p>
