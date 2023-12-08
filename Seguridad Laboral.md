@@ -65,10 +65,10 @@ Hay dos tipos de confort que ayudarán ante la fatiga visual.<br>
 <p>Para controlar los riesgos y prevenirlos existen <a href="https://www.mites.gob.es/es/Guia/texto/guia_10/contenidos/guia_10_22_1.htm">los servicios de inspección y seguridad laboral</a>, por parte del estado, los cuales se encargar de evaluar los riesgos que conlleva la actividad laboral, así mismo las empresas suelen disponer de un departamento interno de Prevención de riesgos laborales, el cual por parte interna de la empresa instruye a sus trabajadores y verifica el cumplimiento de las reglas que se deben cumplir.</p>
 </li>
 <li>
-<p>Otra parte muy importante para evitar accidentes laborales es el trabajador, el cual esta obligado a prestar atención y cumplir estrictamente las señales de obligaciones o peligros.<br>
-<img src="https://2.bp.blogspot.com/-1jfwa4f2ysY/VXGNW0t5RpI/AAAAAAAAABM/VqlW1z4Zwsg/s1600/Obligacion.png" alt="enter image description here"></p>
+<p>Otra parte muy importante para evitar accidentes laborales es el trabajador, el cual esta obligado a prestar atención y cumplir estrictamente las señales de obligaciones o peligros.</p>
 </li>
 </ul>
+<p><img src="https://2.bp.blogspot.com/-1jfwa4f2ysY/VXGNW0t5RpI/AAAAAAAAABM/VqlW1z4Zwsg/s1600/Obligacion.png" alt="enter image description here"></p>
 <p><img src="https://1.bp.blogspot.com/_Au8MphjXLLM/TN2Zg7ODKJI/AAAAAAAAAAU/VcKb1MSVcQ8/s1600/12.gif" alt="enter image description here"></p>
 <blockquote>
 <hr>
