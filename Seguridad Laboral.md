@@ -18,8 +18,16 @@
 <h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
 <p>¿Qué son los riesgos laborales?¿Como se previenen?</p>
 <ul>
-<li>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo.<br>
-<img src="https://media.licdn.com/dms/image/D4D12AQE4_kPpzJgZeg/article-cover_image-shrink_600_2000/0/1673735373727?e=2147483647&amp;v=beta&amp;t=iOV-t-_witSrjay74mjORmkcnAohA8j-2qvJjwbsZ_Y" alt="enter image description here"></li>
+<li>
+<p>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo.</p>
+</li>
+<li>
+<p>Para conocer los riesgos laborales y como prevenirlos el ministerio de trabajo, migraciones y seguridad social dispone de un <a href="https://saludlaboral.org/portal-preventivo/riesgos-laborales/riesgos-laborales-segun-los-lugares-de-trabajo/">portal</a> donde podemos consultarlo.</p>
+</li>
+<li>
+<p>Pero a que riesgos esta sometido un informático, según <a href="https://castillalamancha.ccoo.es/a7c5e0faba682c8a270ad2170798d103000052.pdf">CCOO</a> (“Comisiones Obreras”) estos son los mas frecuentes y como evitarlos<br>
+<img src="https://media.licdn.com/dms/image/D4D12AQE4_kPpzJgZeg/article-cover_image-shrink_600_2000/0/1673735373727?e=2147483647&amp;v=beta&amp;t=iOV-t-_witSrjay74mjORmkcnAohA8j-2qvJjwbsZ_Y" alt="enter image description here"></p>
+</li>
 </ul>
 <h1 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h1>
 <ul>
