@@ -1,5 +1,4 @@
 ---
-<div style="text-align: justify">
 
 ---
 
@@ -69,4 +68,4 @@ Hay dos tipos de confort que ayudarán ante la fatiga visual.<br>
 <p>Realizado por Alejando Lamprea Pérez “AKA Elepé” y Rubén Ramírez García “AKA N1Tr0”</p>
 </blockquote>
 
-</div>
+
