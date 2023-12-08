@@ -3,9 +3,6 @@
 
 ---
 
-<blockquote>
-<hr>
-</blockquote>
 <h1 id="seguridad-laboral">Seguridad Laboral</h1>
 <p><img src="https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg" alt="enter image description here"></p>
 <h1 id="indice">Indice:</h1>
