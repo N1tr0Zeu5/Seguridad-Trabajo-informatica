@@ -6,12 +6,13 @@
 <h1 id="seguridad-laboral">Seguridad Laboral</h1>
 <p><img src="https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg" alt="enter image description here"></p>
 <h1 id="indice">Indice:</h1>
-<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual">–1º Riesgos laborales y Prevencion<br>
+<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual--7º-carga-mental">–1º Riesgos laborales y Prevencion<br>
 –2º Caídas al mismo nivel<br>
 –3º Golpes contra objetos inmóviles<br>
 –4º Problemas musculares<br>
 –5º Contacto eléctrico<br>
-–6º Fatiga visual</h2>
+–6º Fatiga visual<br>
+–7º Carga mental</h2>
 <blockquote></blockquote>
 <h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
 <p><a href="https://castillalamancha.ccoo.es/a7c5e0faba682c8a270ad2170798d103000052.pdf">¿Qué son los riesgos laborales?¿Como se previenen?</a></p>
@@ -52,6 +53,11 @@ Hay dos tipos de confort que ayudarán ante la fatiga visual.<br>
 </ul>
 <p><img src="https://www.eurocanariasoftalmologica.com/wp-content/uploads/2018/08/fatiga-visual.jpg" alt="enter image description here"></p>
 <p><img src="https://www.martinezdecarneros.com/wp-content/uploads/2017/02/sintomas-fatiga-visual-1024x569.jpg" alt="enter image description here"></p>
+<h2 id="º-carga-mental">7º Carga Mental</h2>
+<ul>
+<li>El estrés en el trabajo o la desmotivación pueden ser un riesgo laboral y, por lo tanto, afectar a la salud de los trabajadores. Por ello, es importante realizar tareas variadas, <strong>realizar paradas periódicas para prevenir la fatiga</strong>, seguir hábitos de vida saludable y realizar ejercicio de forma habitual.<br>
+<img src="https://antiagingsshop.com/wp-content/uploads/2022/04/agency-young-adult-profession-stressed-black-scaled.jpg" alt="enter image description here"></li>
+</ul>
 <blockquote>
 <hr>
 <p>Realizado por Alejando Lamprea Pérez “AKA Elepé” y Rubén Ramírez García “AKA N1Tr0”</p>
