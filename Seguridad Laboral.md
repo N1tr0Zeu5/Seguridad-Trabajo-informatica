@@ -3,27 +3,25 @@
 
 ---
 
-<blockquote>
-<hr>
-</blockquote>
-<h1 id="seguridad-laboral">Seguridad Laboral</h1>
-<p><img src="https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg" alt="enter image description here"></p>
-<h1 id="indice">Indice:</h1>
-<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual">–1º Riesgos laborales y Prevencion<br>
-–2º Caídas al mismo nivel<br>
-–3º Golpes contra objetos inmóviles<br>
-–4º Problemas musculares<br>
-–5º Contacto eléctrico<br>
-–6º Fatiga visual</h2>
-<blockquote></blockquote>
-<h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
+<div>
+&gt;***
+# Seguridad Laboral
+![enter image description here](https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg)
+# Indice:
+--1º Riesgos laborales y Prevencion 
+--2º Caídas al mismo nivel
+--3º Golpes contra objetos inmóviles
+--4º Problemas musculares
+--5º Contacto eléctrico
+--6º Fatiga visual
+--
+&gt;
+</div><h2 id="º-riesgos-laborales-y-prevención">&gt; 1º Riesgos Laborales y Prevención</h2>
 <p>¿Qué son los riesgos laborales?¿Como se previenen?</p>
 <ul>
-<li>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo</li>
-<li><img src="https://2.bp.blogspot.com/-1jfwa4f2ysY/VXGNW0t5RpI/AAAAAAAAABM/VqlW1z4Zwsg/s1600/Obligacion.png" alt=""></li>
+<li>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo<br>
+<img src="https://2.bp.blogspot.com/-1jfwa4f2ysY/VXGNW0t5RpI/AAAAAAAAABM/VqlW1z4Zwsg/s1600/Obligacion.png" alt=""></li>
 </ul>
-<hr>
-<blockquote></blockquote>
 <h1 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h1>
 <ul>
 <li>Caídas al mismo nivel: Los suelos deben ser estables, que no resbalen ni tengan ningún tipo de irregularidad. Tener todo despejado y libre de cables es fundamental.<br>
@@ -62,4 +60,5 @@ Hay dos tipos de confort que ayudarán ante la fatiga visual.<br>
 <hr>
 <p>Realizado por Alejando Lamprea Pérez “AKA Elepé” y Rubén Ramírez García “AKA N1Tr0”</p>
 </blockquote>
+
 
