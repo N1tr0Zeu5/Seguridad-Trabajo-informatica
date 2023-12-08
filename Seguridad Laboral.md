@@ -25,9 +25,8 @@
 <h1 id="º-caídas-al-mismo-nivel">2º Caídas al mismo nivel</h1>
 <ul>
 <li>Caídas al mismo nivel: Los suelos deben ser estables, que no resbalen ni tengan ningún tipo de irregularidad. Tener todo despejado y libre de cables es fundamental.<br>
-<img src="https://www.se%C3%B1ales.net/wp-content/uploads/2017/07/peligro-caidas-al-mismo-nivel-713x900.jpg" alt="enter image description here"></li>
+<img src="https://serior-10c75.kxcdn.com/wp-content/uploads/2018/12/AD-2250.png" alt="enter image description here">&gt;</li>
 </ul>
-<blockquote></blockquote>
 <h2 id="º-golpes-contra-objetos-inmóviles">3º Golpes contra objetos inmóviles</h2>
 <ul>
 <li>Para evitar esto debemos tener los pasillos y zonas de paso despejadas. Si, entendemos que a priori no vas a golpearte con nada, pero un día malo lo tiene cualquiera.</li>
@@ -37,7 +36,7 @@
 <h2 id="º-problemas-musculares">4º Problemas musculares</h2>
 <ul>
 <li>Para minimizar esto lo mejor es contar con una mesa de trabajo amplia y una silla ajustable que cuente con reposabrazos y respaldo. Es recomendable hacer descansos cada dos horas y levantarse para ejercitar los músculos.<br>
-<img src="https://www.beedigital.es/wp-content/uploads/2020/09/5ab397fc9a1f3a367b395744f98ff226187004887-1.jpg" alt="enter image description here"></li>
+<img src="https://cirugiadecolumnaguadalajara.com.mx/blog/wp-content/uploads/2019/06/%C2%BFQue-causa-el-dolor-muscular.jpg" alt="enter image description here"></li>
 </ul>
 <blockquote></blockquote>
 <h2 id="º-contacto-eléctrico"><strong>5º Contacto eléctrico</strong></h2>
