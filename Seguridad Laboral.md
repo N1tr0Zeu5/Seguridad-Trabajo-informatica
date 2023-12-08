@@ -38,8 +38,8 @@
 <blockquote></blockquote>
 <h2 id="º-problemas-musculares">4º Problemas musculares</h2>
 <ul>
-<li>Para minimizar esto lo mejor es contar con una mesa de trabajo amplia y una silla ajustable que cuente con reposabrazos y respaldo. Es recomendable hacer descansos cada dos horas y levantarse para ejercitar los músculos.</li>
-<li><img src="https://www.beedigital.es/wp-content/uploads/2020/09/5ab397fc9a1f3a367b395744f98ff226187004887-1.jpg" alt="enter image description here"></li>
+<li>Para minimizar esto lo mejor es contar con una mesa de trabajo amplia y una silla ajustable que cuente con reposabrazos y respaldo. Es recomendable hacer descansos cada dos horas y levantarse para ejercitar los músculos.<br>
+<img src="https://www.beedigital.es/wp-content/uploads/2020/09/5ab397fc9a1f3a367b395744f98ff226187004887-1.jpg" alt="enter image description here"></li>
 </ul>
 <blockquote></blockquote>
 <h2 id="º-contacto-eléctrico"><strong>5º Contacto eléctrico</strong></h2>
