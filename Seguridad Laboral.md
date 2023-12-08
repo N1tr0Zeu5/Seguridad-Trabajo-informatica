@@ -36,13 +36,13 @@
 </ul>
 <p><img src="https://www.mutuabalear.es/verFichero.php?id=793&amp;x=400&amp;y=406" alt="enter image description here"></p>
 <blockquote></blockquote>
-<h2 id="problemas-musculares">Problemas musculares</h2>
+<h2 id="º-problemas-musculares">4º Problemas musculares</h2>
 <ul>
 <li>Para minimizar esto lo mejor es contar con una mesa de trabajo amplia y una silla ajustable que cuente con reposabrazos y respaldo. Es recomendable hacer descansos cada dos horas y levantarse para ejercitar los músculos.</li>
 <li><img src="https://www.beedigital.es/wp-content/uploads/2020/09/5ab397fc9a1f3a367b395744f98ff226187004887-1.jpg" alt="enter image description here"></li>
 </ul>
 <blockquote></blockquote>
-<h2 id="º-contacto-eléctrico"><strong>4º Contacto eléctrico</strong></h2>
+<h2 id="º-contacto-eléctrico"><strong>5º Contacto eléctrico</strong></h2>
 <ul>
 <li>Normalmente un programador no tendría por qué entrar en contacto con riesgo eléctrico, pero nunca se sabe cuando necesitarás manipular algunos cables. En caso de necesitarlo lo mejor es comunicarlo al personal especializado</li>
 </ul>
@@ -58,4 +58,8 @@ Hay dos tipos de confort que ayudarán ante la fatiga visual.<br>
 </ul>
 <p><img src="https://www.eurocanariasoftalmologica.com/wp-content/uploads/2018/08/fatiga-visual.jpg" alt="enter image description here"></p>
 <p><img src="https://www.martinezdecarneros.com/wp-content/uploads/2017/02/sintomas-fatiga-visual-1024x569.jpg" alt="enter image description here"></p>
+<blockquote>
+<hr>
+<p>Realizado por Alejando Lamprea Pérez “AKA Elepé” y Rubén Ramírez García “AKA N1Tr0”</p>
+</blockquote>
 
