@@ -6,7 +6,7 @@
 <h1 id="seguridad-laboral">Seguridad Laboral</h1>
 <p><img src="https://www.segurmaniazurekin.eus/a/2018/04/segurmania-28-abril-dia-seguridad-laboral.jpg" alt="enter image description here"></p>
 <h1 id="índice">Índice:</h1>
-<h2 id="º-riesgos-laborales-y-prevencion--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual--7º-carga-mental--8º-¿cómo-se-controla">–1º Riesgos laborales y Prevencion<br>
+<h2 id="º-riesgos-laborales-y-prevención--2º-caídas-al-mismo-nivel--3º-golpes-contra-objetos-inmóviles--4º-problemas-musculares--5º-contacto-eléctrico--6º-fatiga-visual--7º-carga-mental--8º-¿cómo-se-controla">–1º Riesgos laborales y Prevención<br>
 –2º Caídas al mismo nivel<br>
 –3º Golpes contra objetos inmóviles<br>
 –4º Problemas musculares<br>
@@ -19,7 +19,7 @@
 <p>¿Qué son los riesgos laborales?¿Como se previenen?</p>
 <ul>
 <li>
-<p>El riesgo laboral es  toda circunstancia capaz de causar un peligro en el contexto del desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos y la prevención conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo.</p>
+<p>El riesgo laboral es  toda circunstancia capaz de causar un peligro durante desarrollo de una actividad laboral. Es todo aquello que puede producir un accidente o siniestro con resultado de heridas o daños físicos y/o psicológicos. Para evitar esto tanto empresas como el estado desarrollan medidas conocidas como prevención laboral que consiste en el conjunto de actividades, o medidas adoptadas o previstas en todas las fases de la actividad de la organización con el fin de evitar o disminuir los riesgos derivados del trabajo.</p>
 </li>
 <li>
 <p>Para conocer los riesgos laborales y como prevenirlos el ministerio de trabajo, migraciones y seguridad social dispone de un <a href="https://saludlaboral.org/portal-preventivo/riesgos-laborales/riesgos-laborales-segun-los-lugares-de-trabajo/">portal</a> donde podemos consultarlo.</p>
